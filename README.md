@@ -52,4 +52,6 @@ The results and the diagrams are also presented in the [report](https://github.c
 SIGCOMM Computer Communication Review 31.4 (2001): 149-160.
 
 ##
-*Collaborators: [Manos (Emmanouil) Vekrakis](https://github.com/manosvek), [Dimitris Kranias](https://github.com/dimitriskranias)*
+#### Collaborators:
+###### [Christos Betzelos](https://github.com/chrisbetze)
+###### [Dimitris Kranias](https://github.com/dimitriskranias)
